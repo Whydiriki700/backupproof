@@ -1,3 +1,5 @@
+![backupproof](assets/preview.png)
+
 # backupproof
 
 Most backups are a feeling, not a fact. backupproof compares a backup with
